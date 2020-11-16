@@ -1,0 +1,6 @@
+In file included from tests/search_test.cc:1:0:
+./src/lib/search/search.h: In instantiation of 'static T Search<T>::BinarySearchPar(std::vector<T>&, T) [with T = long int]':
+tests/search_test.cc:94:28:   required from here
+./src/lib/search/search.h:89:31: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (unsigned long i = 0; i < number_of_threads; i++) {
+                             ~~^~~~~~~~~~~~~~~~~~~

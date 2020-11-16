@@ -1,0 +1,20 @@
+exec ${PAGER:-/usr/bin/less} "$0" || exit 1
+Executing tests from //tests:search_test
+-----------------------------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 4 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 4 tests from SearchTest
+[ RUN      ] SearchTest.ExponentialSearch
+[       OK ] SearchTest.ExponentialSearch (323 ms)
+[ RUN      ] SearchTest.BinarySearch
+[       OK ] SearchTest.BinarySearch (320 ms)
+[ RUN      ] SearchTest.TernarySearch
+[       OK ] SearchTest.TernarySearch (290 ms)
+[ RUN      ] SearchTest.BinarySearchPar
+[       OK ] SearchTest.BinarySearchPar (464 ms)
+[----------] 4 tests from SearchTest (1397 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test case ran. (1397 ms total)
+[  PASSED  ] 4 tests.

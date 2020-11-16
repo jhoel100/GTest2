@@ -1,0 +1,8 @@
+bazel-out/k8-fastbuild/bin/tests/_objs/search_test/search_test.pic.o
+-lexternal_Sglog_Slibglog
+-lexternal_Scom_Ugithub_Ugflags_Ugflags_Slibgflags
+-lexternal_Scom_Ugoogle_Ugoogletest_Slibgtest_Umain
+-lexternal_Scom_Ugoogle_Ugoogletest_Slibgtest
+-lpthread
+-lstdc++
+-lm
