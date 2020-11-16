@@ -1,0 +1,3 @@
+bazel-out/k8-fastbuild/bin/external/com_google_googletest/_objs/gtest_main/gmock_main.pic.o
+-lstdc++
+-lm

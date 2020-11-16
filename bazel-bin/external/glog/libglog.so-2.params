@@ -1,0 +1,9 @@
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/demangle.pic.o
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/logging.pic.o
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/raw_logging.pic.o
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/signalhandler.pic.o
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/symbolize.pic.o
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/utilities.pic.o
+bazel-out/k8-fastbuild/bin/external/glog/_objs/glog/vlog_is_on.pic.o
+-lstdc++
+-lm

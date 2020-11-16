@@ -1,0 +1,6 @@
+bazel-out/k8-fastbuild/bin/external/com_github_gflags_gflags/_objs/gflags/gflags.pic.o
+bazel-out/k8-fastbuild/bin/external/com_github_gflags_gflags/_objs/gflags/gflags_completions.pic.o
+bazel-out/k8-fastbuild/bin/external/com_github_gflags_gflags/_objs/gflags/gflags_reporting.pic.o
+-lpthread
+-lstdc++
+-lm
