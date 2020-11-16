@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2020-11-16T00:01:45" time="1.397" name="AllTests">
+  <testsuite name="SearchTest" tests="4" failures="0" disabled="0" errors="0" time="1.397">
+    <testcase name="ExponentialSearch" status="run" time="0.323" classname="SearchTest" />
+    <testcase name="BinarySearch" status="run" time="0.32" classname="SearchTest" />
+    <testcase name="TernarySearch" status="run" time="0.29" classname="SearchTest" />
+    <testcase name="BinarySearchPar" status="run" time="0.464" classname="SearchTest" />
+  </testsuite>
+</testsuites>
